@@ -9,4 +9,3 @@ public class zad3 {
         System.out.print ("\"\n    *    ");
     }
 }
-
