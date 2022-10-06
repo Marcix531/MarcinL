@@ -1,5 +1,5 @@
 //04.10.2022
-public class imie {
+public class zad2 {
     public static void main(String[] args) {
         System.out.print ("Marcin Lichon");
         System.out.print ("\"\n ul.leśna 15 Nowy Sacz\"");
